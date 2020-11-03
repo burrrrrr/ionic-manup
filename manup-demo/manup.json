@@ -6,8 +6,8 @@
         "enabled": true
     },
     "android": {
-        "minimum": "1.0.0",
-        "latest": "1.0.0",
+        "minimum": "1.5.8",
+        "latest": "1.5.9",
         "url": "http://example.com",
         "enabled": true
     }
