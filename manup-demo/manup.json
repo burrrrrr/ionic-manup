@@ -1,5 +1,4 @@
-a
-b
-c
-test
-d
+{
+  "firmware_version":"asd",
+  "data": "a\r\nb\r\nc\r\ntest\r\n"
+}
